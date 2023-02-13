@@ -17,7 +17,7 @@ This tool requires the following libraries to be installed:
 
 ## Usage
 
-    python integrative_data_analysis.py gene_expression_file genotype_file epigenetic_file [--group1 GROUP1] [--group2 GROUP2]
+    python integrative-data-analysis.py gene_expression_file genotype_file epigenetic_file [--group1 GROUP1] [--group2 GROUP2]
 
 -   `gene_expression_file`: Path to the gene expression data file.
 -   `genotype_file`: Path to the genotype data file.
